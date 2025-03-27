@@ -1,0 +1,5 @@
+﻿  chap03_open_challenge.cpp
+C:\Users\tmddn\2025학년도_1학기\객체지향언어1\chap03_open_challenge\chap03_open_challenge\chap03_open_challenge.cpp(7,6): warning C4101: 'n' :참조되지 않은 지역 변수입니다.
+  Exp.cpp
+  코드를 생성하고 있습니다...
+  chap03_open_challenge.vcxproj -> C:\Users\tmddn\2025학년도_1학기\객체지향언어1\chap03_open_challenge\x64\Debug\chap03_open_challenge.exe

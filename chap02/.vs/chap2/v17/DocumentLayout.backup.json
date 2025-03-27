@@ -1,0 +1,85 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\tmddn\\2025\uD559\uB144\uB3C4_1\uD559\uAE30\\\uAC1D\uCCB4\uC9C0\uD5A5\uC5B8\uC5B41\\chap02\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{F6774F8D-7029-42DD-8935-635298121125}|password\\password.vcxproj|C:\\Users\\tmddn\\2025\uD559\uB144\uB3C4_1\uD559\uAE30\\\uAC1D\uCCB4\uC9C0\uD5A5\uC5B8\uC5B41\\chap02\\password\\password.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{F6774F8D-7029-42DD-8935-635298121125}|password\\password.vcxproj|solutionrelative:password\\password.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D14C8194-CACD-4640-B334-023AACCBE788}|getline\\getline.vcxproj|C:\\Users\\tmddn\\2025\uD559\uB144\uB3C4_1\uD559\uAE30\\\uAC1D\uCCB4\uC9C0\uD5A5\uC5B8\uC5B41\\chap02\\getline\\getline.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{D14C8194-CACD-4640-B334-023AACCBE788}|getline\\getline.vcxproj|solutionrelative:getline\\getline.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FB202A11-40AC-453A-82B2-14B590F2B2AA}|cin2\\cin2.vcxproj|C:\\Users\\tmddn\\2025\uD559\uB144\uB3C4_1\uD559\uAE30\\\uAC1D\uCCB4\uC9C0\uD5A5\uC5B8\uC5B41\\chap02\\cin2\\main.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{FB202A11-40AC-453A-82B2-14B590F2B2AA}|cin2\\cin2.vcxproj|solutionrelative:cin2\\main.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6BC1E341-0E0E-4581-A269-1D6BB29D7EC6}|cin\\cin.vcxproj|C:\\Users\\tmddn\\2025\uD559\uB144\uB3C4_1\uD559\uAE30\\\uAC1D\uCCB4\uC9C0\uD5A5\uC5B8\uC5B41\\chap02\\cin\\keyin.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{6BC1E341-0E0E-4581-A269-1D6BB29D7EC6}|cin\\cin.vcxproj|solutionrelative:cin\\keyin.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "getline.cpp",
+              "DocumentMoniker": "C:\\Users\\tmddn\\2025\uD559\uB144\uB3C4_1\uD559\uAE30\\\uAC1D\uCCB4\uC9C0\uD5A5\uC5B8\uC5B41\\chap02\\getline\\getline.cpp",
+              "RelativeDocumentMoniker": "getline\\getline.cpp",
+              "ToolTip": "C:\\Users\\tmddn\\2025\uD559\uB144\uB3C4_1\uD559\uAE30\\\uAC1D\uCCB4\uC9C0\uD5A5\uC5B8\uC5B41\\chap02\\getline\\getline.cpp",
+              "RelativeToolTip": "getline\\getline.cpp",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAAhAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2025-03-13T11:29:24.646Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "password.cpp",
+              "DocumentMoniker": "C:\\Users\\tmddn\\2025\uD559\uB144\uB3C4_1\uD559\uAE30\\\uAC1D\uCCB4\uC9C0\uD5A5\uC5B8\uC5B41\\chap02\\password\\password.cpp",
+              "RelativeDocumentMoniker": "password\\password.cpp",
+              "ToolTip": "C:\\Users\\tmddn\\2025\uD559\uB144\uB3C4_1\uD559\uAE30\\\uAC1D\uCCB4\uC9C0\uD5A5\uC5B8\uC5B41\\chap02\\password\\password.cpp",
+              "RelativeToolTip": "password\\password.cpp",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAAABEAAAADAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2025-03-13T11:13:56.337Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "main.cpp",
+              "DocumentMoniker": "C:\\Users\\tmddn\\2025\uD559\uB144\uB3C4_1\uD559\uAE30\\\uAC1D\uCCB4\uC9C0\uD5A5\uC5B8\uC5B41\\chap02\\cin2\\main.cpp",
+              "RelativeDocumentMoniker": "cin2\\main.cpp",
+              "ToolTip": "C:\\Users\\tmddn\\2025\uD559\uB144\uB3C4_1\uD559\uAE30\\\uAC1D\uCCB4\uC9C0\uD5A5\uC5B8\uC5B41\\chap02\\cin2\\main.cpp",
+              "RelativeToolTip": "cin2\\main.cpp",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAUAAAAZAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2025-03-13T10:50:10.493Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "keyin.cpp",
+              "DocumentMoniker": "C:\\Users\\tmddn\\2025\uD559\uB144\uB3C4_1\uD559\uAE30\\\uAC1D\uCCB4\uC9C0\uD5A5\uC5B8\uC5B41\\chap02\\cin\\keyin.cpp",
+              "RelativeDocumentMoniker": "cin\\keyin.cpp",
+              "ToolTip": "C:\\Users\\tmddn\\2025\uD559\uB144\uB3C4_1\uD559\uAE30\\\uAC1D\uCCB4\uC9C0\uD5A5\uC5B8\uC5B41\\chap02\\cin\\keyin.cpp",
+              "RelativeToolTip": "cin\\keyin.cpp",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABMAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2025-03-13T07:14:51.95Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
