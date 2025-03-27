@@ -1,0 +1,85 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\tmddn\\2025\uD559\uB144\uB3C4_1\uD559\uAE30\\\uAC1D\uCCB4\uC9C0\uD5A5\uC5B8\uC5B41\\chap03\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{70A6F7B9-E27A-4EC0-8AE8-B02BF59F61B7}|rectangle_constructor_ex\\rectangle_constructor_ex.vcxproj|C:\\Users\\tmddn\\2025\uD559\uB144\uB3C4_1\uD559\uAE30\\\uAC1D\uCCB4\uC9C0\uD5A5\uC5B8\uC5B41\\chap03\\rectangle_constructor_ex\\rectangle_constructor_ex.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{70A6F7B9-E27A-4EC0-8AE8-B02BF59F61B7}|rectangle_constructor_ex\\rectangle_constructor_ex.vcxproj|solutionrelative:rectangle_constructor_ex\\rectangle_constructor_ex.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B0044744-C042-4CBC-B75B-553519C46E0F}|constructor_ex\\constructor_ex.vcxproj|C:\\Users\\tmddn\\2025\uD559\uB144\uB3C4_1\uD559\uAE30\\\uAC1D\uCCB4\uC9C0\uD5A5\uC5B8\uC5B41\\chap03\\constructor_ex\\constructor_ex.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{B0044744-C042-4CBC-B75B-553519C46E0F}|constructor_ex\\constructor_ex.vcxproj|solutionrelative:constructor_ex\\constructor_ex.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D371FBFB-9A25-4128-AE62-8A1B39710B00}|rectangle\\rectangle.vcxproj|C:\\Users\\tmddn\\2025\uD559\uB144\uB3C4_1\uD559\uAE30\\\uAC1D\uCCB4\uC9C0\uD5A5\uC5B8\uC5B41\\chap03\\rectangle\\rectangle.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{D371FBFB-9A25-4128-AE62-8A1B39710B00}|rectangle\\rectangle.vcxproj|solutionrelative:rectangle\\rectangle.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BEE1F99D-472B-4191-B787-7F122CC3AE20}|circle\\circle.vcxproj|C:\\Users\\tmddn\\2025\uD559\uB144\uB3C4_1\uD559\uAE30\\\uAC1D\uCCB4\uC9C0\uD5A5\uC5B8\uC5B41\\chap03\\circle\\circle.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{BEE1F99D-472B-4191-B787-7F122CC3AE20}|circle\\circle.vcxproj|solutionrelative:circle\\circle.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "rectangle_constructor_ex.cpp",
+              "DocumentMoniker": "C:\\Users\\tmddn\\2025\uD559\uB144\uB3C4_1\uD559\uAE30\\\uAC1D\uCCB4\uC9C0\uD5A5\uC5B8\uC5B41\\chap03\\rectangle_constructor_ex\\rectangle_constructor_ex.cpp",
+              "RelativeDocumentMoniker": "rectangle_constructor_ex\\rectangle_constructor_ex.cpp",
+              "ToolTip": "C:\\Users\\tmddn\\2025\uD559\uB144\uB3C4_1\uD559\uAE30\\\uAC1D\uCCB4\uC9C0\uD5A5\uC5B8\uC5B41\\chap03\\rectangle_constructor_ex\\rectangle_constructor_ex.cpp",
+              "RelativeToolTip": "rectangle_constructor_ex\\rectangle_constructor_ex.cpp",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAACkAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2025-03-21T07:59:06.287Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "constructor_ex.cpp",
+              "DocumentMoniker": "C:\\Users\\tmddn\\2025\uD559\uB144\uB3C4_1\uD559\uAE30\\\uAC1D\uCCB4\uC9C0\uD5A5\uC5B8\uC5B41\\chap03\\constructor_ex\\constructor_ex.cpp",
+              "RelativeDocumentMoniker": "constructor_ex\\constructor_ex.cpp",
+              "ToolTip": "C:\\Users\\tmddn\\2025\uD559\uB144\uB3C4_1\uD559\uAE30\\\uAC1D\uCCB4\uC9C0\uD5A5\uC5B8\uC5B41\\chap03\\constructor_ex\\constructor_ex.cpp",
+              "RelativeToolTip": "constructor_ex\\constructor_ex.cpp",
+              "ViewState": "AgIAABQAAAAAAAAAAAAIwB8AAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2025-03-21T07:21:52.916Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "rectangle.cpp",
+              "DocumentMoniker": "C:\\Users\\tmddn\\2025\uD559\uB144\uB3C4_1\uD559\uAE30\\\uAC1D\uCCB4\uC9C0\uD5A5\uC5B8\uC5B41\\chap03\\rectangle\\rectangle.cpp",
+              "RelativeDocumentMoniker": "rectangle\\rectangle.cpp",
+              "ToolTip": "C:\\Users\\tmddn\\2025\uD559\uB144\uB3C4_1\uD559\uAE30\\\uAC1D\uCCB4\uC9C0\uD5A5\uC5B8\uC5B41\\chap03\\rectangle\\rectangle.cpp",
+              "RelativeToolTip": "rectangle\\rectangle.cpp",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABYAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2025-03-21T07:04:52.081Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "circle.cpp",
+              "DocumentMoniker": "C:\\Users\\tmddn\\2025\uD559\uB144\uB3C4_1\uD559\uAE30\\\uAC1D\uCCB4\uC9C0\uD5A5\uC5B8\uC5B41\\chap03\\circle\\circle.cpp",
+              "RelativeDocumentMoniker": "circle\\circle.cpp",
+              "ToolTip": "C:\\Users\\tmddn\\2025\uD559\uB144\uB3C4_1\uD559\uAE30\\\uAC1D\uCCB4\uC9C0\uD5A5\uC5B8\uC5B41\\chap03\\circle\\circle.cpp",
+              "RelativeToolTip": "circle\\circle.cpp",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAB8AAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2025-03-21T06:45:17.36Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
