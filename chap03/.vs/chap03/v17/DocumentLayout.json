@@ -36,7 +36,7 @@
               "RelativeDocumentMoniker": "rectangle_constructor_ex\\rectangle_constructor_ex.cpp",
               "ToolTip": "C:\\Users\\tmddn\\2025\uD559\uB144\uB3C4_1\uD559\uAE30\\\uAC1D\uCCB4\uC9C0\uD5A5\uC5B8\uC5B41\\chap03\\rectangle_constructor_ex\\rectangle_constructor_ex.cpp",
               "RelativeToolTip": "rectangle_constructor_ex\\rectangle_constructor_ex.cpp",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAACkAAAAAAAAAAAAAAA==",
+              "ViewState": "AgIAAAkAAAAAAAAAAAAAAAkAAAAWAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
               "WhenOpened": "2025-03-21T07:59:06.287Z",
               "EditorCaption": ""
@@ -49,9 +49,10 @@
               "RelativeDocumentMoniker": "constructor_ex\\constructor_ex.cpp",
               "ToolTip": "C:\\Users\\tmddn\\2025\uD559\uB144\uB3C4_1\uD559\uAE30\\\uAC1D\uCCB4\uC9C0\uD5A5\uC5B8\uC5B41\\chap03\\constructor_ex\\constructor_ex.cpp",
               "RelativeToolTip": "constructor_ex\\constructor_ex.cpp",
-              "ViewState": "AgIAABQAAAAAAAAAAAAIwB8AAAABAAAAAAAAAA==",
+              "ViewState": "AgIAABUAAAAAAAAAAAAAACoAAAABAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
-              "WhenOpened": "2025-03-21T07:21:52.916Z"
+              "WhenOpened": "2025-03-21T07:21:52.916Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
@@ -61,9 +62,10 @@
               "RelativeDocumentMoniker": "rectangle\\rectangle.cpp",
               "ToolTip": "C:\\Users\\tmddn\\2025\uD559\uB144\uB3C4_1\uD559\uAE30\\\uAC1D\uCCB4\uC9C0\uD5A5\uC5B8\uC5B41\\chap03\\rectangle\\rectangle.cpp",
               "RelativeToolTip": "rectangle\\rectangle.cpp",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAABYAAAABAAAAAAAAAA==",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAAABYAAAABAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
-              "WhenOpened": "2025-03-21T07:04:52.081Z"
+              "WhenOpened": "2025-03-21T07:04:52.081Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
@@ -73,9 +75,10 @@
               "RelativeDocumentMoniker": "circle\\circle.cpp",
               "ToolTip": "C:\\Users\\tmddn\\2025\uD559\uB144\uB3C4_1\uD559\uAE30\\\uAC1D\uCCB4\uC9C0\uD5A5\uC5B8\uC5B41\\chap03\\circle\\circle.cpp",
               "RelativeToolTip": "circle\\circle.cpp",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAB8AAAABAAAAAAAAAA==",
+              "ViewState": "AgIAAAYAAAAAAAAAAAAAAB8AAAABAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
-              "WhenOpened": "2025-03-21T06:45:17.36Z"
+              "WhenOpened": "2025-03-21T06:45:17.36Z",
+              "EditorCaption": ""
             }
           ]
         }
